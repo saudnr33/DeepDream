@@ -1,7 +1,7 @@
 # DeepDream
 
 
-simple implementation of DeepDream algorithm!
+Simple implementation of DeepDream algorithm!
 
 ## Results 
 
